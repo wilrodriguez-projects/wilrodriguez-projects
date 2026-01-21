@@ -17,6 +17,7 @@ I build practical tools that connect **APIs + data + dashboards** and ship them 
 - 🔧 **AI-Powered Incident Copilot on Google Cloud** (in progress)
 - 📊 **Cloud Migration Tracker + Governance Dashboard** (coming next)
 - 🧩 **API Toolkit** — Postman collections + reusable request patterns (coming)
+- Each project includes architecture notes, tradeoffs, and runbooks.
 
 ## Toolbox
 **Python • FastAPI • REST APIs • Postman • Power BI • SQL • GitHub • Google Cloud**
