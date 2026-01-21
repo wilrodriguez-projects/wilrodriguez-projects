@@ -21,6 +21,13 @@ I build practical tools that connect **APIs + data + dashboards** and ship them 
 ## Toolbox
 **Python • FastAPI • REST APIs • Postman • Power BI • SQL • GitHub • Google Cloud**
 
+## How I work
+- Design first, then build
+- Small, shippable phases
+- Clear docs over clever code
+- Ops & support considered from day one
+
+
 ## Contact
 - Email: **wil@wilrodriguez.com**
 - LinkedIn: (https://www.linkedin.com/in/wil-rodriguez/)
