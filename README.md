@@ -9,6 +9,12 @@ My work combines project leadership with hands-on technical exploration across c
 
 ---
 
+## Currently Working On
+
+• Building a hands-on IT Support Home Lab using virtual machines  
+• Studying for CompTIA A+ (220-1201 / 220-1202)  
+• Developing operational dashboards and automation tools
+
 ## Professional Focus
 
 • Technical project delivery across infrastructure and telecom environments  
