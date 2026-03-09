@@ -1,6 +1,7 @@
 # Wil Rodriguez (Wil)
 
 Technical Project Manager specializing in IT operations, infrastructure coordination, and automation.
+Currently building a public IT Support Home Lab while preparing for the CompTIA A+ certification.
 
 I focus on bridging technical delivery and operational execution by building practical tools, dashboards, and lab environments that simulate real production systems.
 
