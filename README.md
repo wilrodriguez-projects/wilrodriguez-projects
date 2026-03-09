@@ -23,7 +23,6 @@ My work combines project leadership with hands-on technical exploration across c
 • Operational dashboards and automation for infrastructure programs  
 • Hands-on labs to strengthen IT troubleshooting and system administration skills  
 
-Currently building a **public IT Support Home Lab** while preparing for the **CompTIA A+ certification**.
 
 ---
 
