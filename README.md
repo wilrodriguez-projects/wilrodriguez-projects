@@ -81,17 +81,17 @@ I combine real-world program leadership with structured workflows, prompt system
 
 ## Featured Projects
 
-🔧 **IT Support Home Lab (In Progress)**  
-Hands-on lab simulating help desk troubleshooting including virtualization, diagnostics, and operating system configuration.
+🔹 AI Incident Intake & Response System  
+AI-assisted system for structured incident intake, triage, and operational decision-making.
 
-⚙️ **AI-Powered Incident Copilot (Google Cloud)**  
-AI-assisted system for structured incident intake, triage, and operational summaries.
+🔹 Site Decommissioning Management System  
+End-to-end system for managing site closures, dependencies, risks, and execution across teams.
 
-📊 **Cloud Migration Tracker + Governance Dashboard**  
-Operational dashboard designed to track migrations, cost, and project delivery progress.
+🔹 Telecom Migration Command Center  
+Centralized platform for tracking migrations, managing risk, and improving execution visibility.
 
-🔌 **API Toolkit**  
-Reusable Postman collections and API request patterns for integration testing.
+🔹 AI PM Prompt Library  
+Reusable prompt systems for planning, risk analysis, RCA generation, and stakeholder communication.
 
 ---
 
