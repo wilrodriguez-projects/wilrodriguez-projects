@@ -41,21 +41,24 @@ I combine real-world program leadership with structured workflows, prompt system
 
 ## Areas of Specialization
 
-**Infrastructure & Facility Operations**
-- Coordinating technology disconnects and facility shutdowns
-- Managing vendor workstreams during infrastructure changes
-- Coordinating cross-functional teams across network, operations, and vendors
-- Planning and executing infrastructure transitions
+### Infrastructure & Facility Operations
+- Leading site decommissioning and infrastructure shutdowns across complex environments  
+- Coordinating multi-team execution for technology disconnects and facility closures  
+- Managing dependencies across network, operations, and vendor workstreams  
+- Driving structured execution for infrastructure transitions and migrations  
 
-**Vendor & Operational Management**
-- Vendor coordination and accountability tracking
-- Managing external technical teams and suppliers
-- Aligning project delivery with operational support teams
+### Vendor & Operational Management
+- Managing vendor coordination, accountability, and delivery across critical initiatives  
+- Aligning external suppliers and internal teams to ensure operational continuity  
+- Integrating project delivery with operational support and long-term sustainability  
 
-**Technical Operations**
-- Incident workflows and operational runbooks
-- Monitoring and operational reliability concepts
-- Infrastructure coordination across multiple teams
+### Incident & Operational Systems
+- Designing structured incident intake, triage, and response workflows  
+- Improving operational visibility through dashboards, tracking systems, and reporting  
+- Building runbooks and systems to standardize execution and reduce response time  
+- Applying automation and AI-assisted workflows to optimize operational performance  
+
+
 
 ---
 
