@@ -2,7 +2,7 @@
 
 Technical Program Manager | Telecom & Infrastructure | Building AI-Powered Operational Systems
 
-I build practical systems that improve execution, visibility, and decision-making across complex operational environments.
+I design and build systems that eliminate operational inefficiencies, reduce incident response time, and bring clarity to complex telecom and infrastructure environments.
 
 My work focuses on:
 - AI-assisted incident response and intake
