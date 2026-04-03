@@ -17,16 +17,16 @@ I combine real-world program leadership with structured workflows, prompt system
 ## Currently Building
 
 - AI Incident Intake & Response System  
-  Structured intake + AI-generated summaries to reduce incident response time and improve triage
+  Reducing incident response time by standardizing intake and generating AI-assisted summaries, actions, and escalation paths
 
 - Site Decommissioning Management System  
-  End-to-end tracking of site closures, dependencies, risks, and ownership across teams
+  Managing end-to-end site closures with structured tracking of dependencies, risks, ownership, and execution status
 
 - Telecom Migration Command Center  
-  Centralized system for managing migrations, risk visibility, and execution tracking
+  Improving migration execution through centralized tracking, risk visibility, and real-time operational oversight
 
 - AI Prompt Library for Program Management  
-  Reusable prompt frameworks for planning, risk management, RCA, and stakeholder communication
+  Developing reusable prompt systems to accelerate planning, risk analysis, RCA generation, and stakeholder communication
 
 ## Professional Focus
 
