@@ -64,21 +64,21 @@ I combine real-world program leadership with structured workflows, prompt system
 
 ## What I Build
 
-**IT Support Labs**
-- Virtual machine environments
-- OS installation and troubleshooting
-- Network diagnostics and system repair
-- Documented troubleshooting workflows
+### Operational Systems
+- AI-assisted incident intake and response systems  
+- Site decommissioning and infrastructure shutdown tracking systems  
+- Telecom migration command centers with structured execution workflows  
+- Cross-functional tracking systems for ownership, risk, and delivery  
 
-**Automation & APIs**
-- Python services and integrations
-- REST API automation
-- Operational tooling for internal workflows
+### Automation & Workflow Design
+- AI-powered prompt systems for incident analysis, RCA, and planning  
+- API-driven workflows to reduce manual operational effort  
+- Internal tools to standardize processes and improve execution speed  
 
-**Operational Analytics**
-- Power BI dashboards
-- Operational reporting
-- Infrastructure tracking and governance dashboards
+### Operational Analytics & Visibility
+- Power BI dashboards for migration tracking and operational reporting  
+- Real-time visibility systems for incidents, risks, and execution status  
+- Data-driven reporting frameworks for leadership and stakeholders  
 
 ---
 
