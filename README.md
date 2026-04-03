@@ -1,6 +1,6 @@
 # Wil Rodriguez (Wil)
 
-Technical Program Manager | Telecom & Infrastructure | Building AI-Powered Operational Systems
+Technical Program Manager | AI-Powered Operational Systems | Telecom & Infrastructure
 
 I design and build systems that eliminate operational inefficiencies, reduce incident response time, and bring clarity to complex telecom and infrastructure environments.
 
@@ -26,7 +26,7 @@ I combine real-world program leadership with structured workflows, prompt system
   Improving migration execution through centralized tracking, risk visibility, and real-time operational oversight
 
 - AI Prompt Library for Program Management  
-  Developing reusable prompt systems to accelerate planning, risk analysis, RCA generation, and stakeholder communication
+  Building reusable prompt systems to accelerate planning, risk analysis, RCA generation, and stakeholder communication
 
 ## Professional Focus
 
@@ -34,7 +34,7 @@ I combine real-world program leadership with structured workflows, prompt system
 • Coordinating large-scale disconnects and facility shutdowns  
 • Vendor management and cross-team operational coordination  
 • Operational dashboards and automation for infrastructure programs  
-• Hands-on labs to strengthen IT troubleshooting and system administration skills  
+
 
 
 ---
