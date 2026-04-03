@@ -10,7 +10,7 @@ My work focuses on:
 - Site decommissioning and closure tracking
 - Operational dashboards, automation, and cross-functional execution
 
-I combine real-world program leadership with structured workflows, prompt systems, dashboards, and automation to solve messy business problems faster and with more clarity.
+I combine real-world program leadership with structured workflows, prompt systems, dashboards, and automation to turn complex, fragmented operations into controlled, scalable systems.
 
 ---
 
