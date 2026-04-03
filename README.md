@@ -1,13 +1,16 @@
 # Wil Rodriguez (Wil)
 
+Technical Program Manager | Telecom & Infrastructure | Building AI-Powered Operational Systems
 
-Technical Project Manager specializing in IT operations, infrastructure coordination, and automation. 
+I build practical systems that improve execution, visibility, and decision-making across complex operational environments.
 
-Currently building a public IT Support Home Lab while preparing for the CompTIA A+ certification.
+My work focuses on:
+- AI-assisted incident response and intake
+- Telecom and infrastructure migration management
+- Site decommissioning and closure tracking
+- Operational dashboards, automation, and cross-functional execution
 
-I focus on bridging technical delivery and operational execution by building practical tools, dashboards, and lab environments that simulate real production systems.
-
-My work combines project leadership with hands-on technical exploration across cloud systems, infrastructure operations, and IT support environments.
+I combine real-world program leadership with structured workflows, prompt systems, dashboards, and automation to solve messy business problems faster and with more clarity.
 
 ---
 
