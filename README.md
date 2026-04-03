@@ -98,17 +98,26 @@ Reusable prompt systems for planning, risk analysis, RCA generation, and stakeho
 
 ---
 
-## Toolbox
+## Tools & Technologies
 
+### Systems & Automation
 Python • PowerShell • REST APIs • Postman  
-VirtualBox • Windows • Linux  
-Power BI • SQL • GitHub • Google Cloud  
+
+### Infrastructure & Environments
+VirtualBox • Windows • Linux • Google Cloud  
+
+### Data & Operational Visibility
+Power BI • SQL  
+
+### Workflow & Collaboration
+GitHub • Structured documentation • Process design    
 
 ---
 
-## Certifications (In Progress)
+## Certifications & Development
 
-CompTIA A+ (220-1201 / 220-1202)
+- CompTIA A+ (220-1201 / 220-1202) – In Progress  
+- Claude AI Essentials – Applied to designing AI-assisted incident response, RCA generation, and operational workflows
 
 ---
 
