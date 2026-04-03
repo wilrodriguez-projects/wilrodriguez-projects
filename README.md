@@ -14,11 +14,19 @@ I combine real-world program leadership with structured workflows, prompt system
 
 ---
 
-## Currently Working On
+## Currently Building
 
-• Building a hands-on IT Support Home Lab using virtual machines  
-• Studying for CompTIA A+ (220-1201 / 220-1202)  
-• Developing operational dashboards and automation tools
+- AI Incident Intake & Response System  
+  Structured intake + AI-generated summaries to reduce incident response time and improve triage
+
+- Site Decommissioning Management System  
+  End-to-end tracking of site closures, dependencies, risks, and ownership across teams
+
+- Telecom Migration Command Center  
+  Centralized system for managing migrations, risk visibility, and execution tracking
+
+- AI Prompt Library for Program Management  
+  Reusable prompt frameworks for planning, risk management, RCA, and stakeholder communication
 
 ## Professional Focus
 
