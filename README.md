@@ -1,127 +1,72 @@
-# Wil Rodriguez (Wil)
+# Wil Rodriguez — Technical Program Manager
 
-Technical Program Manager | AI-Powered Operational Systems | Telecom & Infrastructure
+I build systems that bring order to complex technical operations. My work sits at the intersection of program execution, infrastructure, and AI-assisted workflows — turning fragmented, high-stakes programs into controlled, documented, and repeatable delivery machines.
 
-I design and build systems that eliminate operational inefficiencies, reduce incident response time, and bring clarity to complex telecom and infrastructure environments.
-
-My work focuses on:
-- AI-assisted incident response and intake
-- Telecom and infrastructure migration management
-- Site decommissioning and closure tracking
-- Operational dashboards, automation, and cross-functional execution
-
-I combine real-world program leadership with structured workflows, prompt systems, dashboards, and automation to turn complex, fragmented operations into controlled, scalable systems.
+Currently focused on: **cloud infrastructure migration · telecom operations · AI-powered program management**
 
 ---
 
-## Currently Building
+## Featured Work
 
-- AI Incident Intake & Response System  
-  Reducing incident response time by standardizing intake and generating AI-assisted summaries, actions, and escalation paths
+### 🚀 Project NORTH STAR — Carrier-Grade VoIP Migration
+**[github.com/wilrodriguez-projects/northstar-voip-migration](https://github.com/wilrodriguez-projects/northstar-voip-migration)**
 
-- Site Decommissioning Management System  
-  Managing end-to-end site closures with structured tracking of dependencies, risks, ownership, and execution status
+Full-program TPM portfolio simulating a real-world migration of 6,200 DIDs from a legacy Cisco PBX to AWS Connect. Every artifact reflects how a senior TPM operates under pressure.
 
-- Telecom Migration Command Center  
-  Improving migration execution through centralized tracking, risk visibility, and real-time operational oversight
-
-- AI Prompt Library for Program Management  
-  Building reusable prompt systems to accelerate planning, risk analysis, RCA generation, and stakeholder communication
-
-## Professional Focus
-
-• Technical project delivery across infrastructure and telecom environments  
-• Coordinating large-scale disconnects and facility shutdowns  
-• Vendor management and cross-team operational coordination  
-• Operational dashboards and automation for infrastructure programs  
-
-
+| What it demonstrates | Where to find it |
+|---|---|
+| Handling a 90-day carrier delay ($150K exposure, resolved in 7 days) | `/program-management/dependency-log.md` |
+| 22+ weeks of schedule protected via scope governance | `/program-management/scope-change-log.md` |
+| 3 eng vs. product trade-offs with named decisions and outcomes | `/docs/04-technical-tradeoffs.md` |
+| 11-risk register with heat map and mitigation playbooks | `/program-management/risk-register.md` |
+| 6 production AI prompts used to operate the program | `/ai-operations/prompt-library.md` |
 
 ---
 
-## Areas of Specialization
+## Other Projects
 
-### Infrastructure & Facility Operations
-- Leading site decommissioning and infrastructure shutdowns across complex environments  
-- Coordinating multi-team execution for technology disconnects and facility closures  
-- Managing dependencies across network, operations, and vendor workstreams  
-- Driving structured execution for infrastructure transitions and migrations  
+**[AI Incident Intake & Response System](https://github.com/wilrodriguez-projects/ai-incident-intake-system)**
+Structured intake, triage, and AI-assisted response workflow for operational environments. Reduces time-to-action on incidents by standardizing the first 15 minutes.
 
-### Vendor & Operational Management
-- Managing vendor coordination, accountability, and delivery across critical initiatives  
-- Aligning external suppliers and internal teams to ensure operational continuity  
-- Integrating project delivery with operational support and long-term sustainability  
+**[Site Decommissioning Management System](https://github.com/wilrodriguez-projects/site-decommissioning-management-system)**
+End-to-end tracking system for infrastructure shutdowns — dependencies, risks, ownership, and execution status across teams.
 
-### Incident & Operational Systems
-- Designing structured incident intake, triage, and response workflows  
-- Improving operational visibility through dashboards, tracking systems, and reporting  
-- Building runbooks and systems to standardize execution and reduce response time  
-- Applying automation and AI-assisted workflows to optimize operational performance  
+**[Telecom Migration Command Center](https://github.com/wilrodriguez-projects/telecom-migration-command-center)**
+Centralized platform for tracking migrations, managing risk, and improving execution visibility across carrier and cloud workstreams.
 
-
+**[AI PM Prompt Library](https://github.com/wilrodriguez-projects/ai-pm-prompt-library)**
+Reusable prompt systems for status reports, risk analysis, RCA generation, dependency slip analysis, and stakeholder communication.
 
 ---
 
-## What I Build
+## How I Operate
 
-### Operational Systems
-- AI-assisted incident intake and response systems  
-- Site decommissioning and infrastructure shutdown tracking systems  
-- Telecom migration command centers with structured execution workflows  
-- Cross-functional tracking systems for ownership, risk, and delivery  
-
-### Automation & Workflow Design
-- AI-powered prompt systems for incident analysis, RCA, and planning  
-- API-driven workflows to reduce manual operational effort  
-- Internal tools to standardize processes and improve execution speed  
-
-### Operational Analytics & Visibility
-- Power BI dashboards for migration tracking and operational reporting  
-- Real-time visibility systems for incidents, risks, and execution status  
-- Data-driven reporting frameworks for leadership and stakeholders  
+- **Programs run on documentation, not memory** — every decision has a named owner, every risk has a mitigation, every scope change has an impact assessment
+- **AI accelerates, humans decide** — I use Claude to draft status reports in 8 seconds and surface risks from meeting notes, then own every output
+- **Stakeholders should never be surprised** — I escalate early, communicate in writing, and make the cost of every trade-off visible before it's accepted
+- **Technical debt is a program management problem** — I track it in the same backlog as features and reserve sprint capacity to pay it down
 
 ---
 
-## Featured Projects
+## Skills & Tools
 
-🔹 AI Incident Intake & Response System  
-AI-assisted system for structured incident intake, triage, and operational decision-making.
-
-🔹 Site Decommissioning Management System  
-End-to-end system for managing site closures, dependencies, risks, and execution across teams.
-
-🔹 Telecom Migration Command Center  
-Centralized platform for tracking migrations, managing risk, and improving execution visibility.
-
-🔹 AI PM Prompt Library  
-Reusable prompt systems for planning, risk analysis, RCA generation, and stakeholder communication.
+`Program Management` · `Risk Management` · `AWS Connect` · `Terraform` · `SIP / VoIP` · `Jira` · `Python` · `Power BI` · `REST APIs` · `Claude AI`
 
 ---
 
-## Tools & Technologies
+## Certifications
 
-### Systems & Automation
-Python • PowerShell • REST APIs • Postman  
-
-### Infrastructure & Environments
-VirtualBox • Windows • Linux • Google Cloud  
-
-### Data & Operational Visibility
-Power BI • SQL  
-
-### Workflow & Collaboration
-GitHub • Structured documentation • Process design    
-
----
-
-## Certifications & Development
-
-- CompTIA A+ (220-1201 / 220-1202) – In Progress  
-- Claude AI Essentials – Applied to designing AI-assisted incident response, RCA generation, and operational workflows
+- CompTIA A+ (220-1201 / 220-1202) — In Progress
+- Claude AI Essentials — Applied to program operations, risk analysis, and stakeholder communication
 
 ---
 
 ## Contact
 
-Email: wil@wilrodriguez.com  
-LinkedIn: https://www.linkedin.com/in/wil-rodriguez/
+📧 [wil@wilrodriguez.com](mailto:wil@wilrodriguez.com)
+💼 [linkedin.com/in/wil-rodriguez](https://www.linkedin.com/in/wil-rodriguez/)
+
+
+
+
+
