@@ -25,6 +25,9 @@ Full-program TPM portfolio simulating a real-world migration of 6,200 DIDs from 
 
 ## Other Projects
 
+**[Call Center Relocation — Bedford to Braintree MA](https://github.com/wilrodriguez-projects/call-center-relocation-bedford-braintree)**  
+Telecom and vendor workstream lead for a 50–150 seat call center move. Managed Avaya system cutover, network cabling, and wireless standup. Identified and mitigated equipment delivery delay before it hit the go-live date.
+
 **[AI Incident Intake & Response System](https://github.com/wilrodriguez-projects/ai-incident-intake-system)**
 Structured intake, triage, and AI-assisted response workflow for operational environments. Reduces time-to-action on incidents by standardizing the first 15 minutes.
 
