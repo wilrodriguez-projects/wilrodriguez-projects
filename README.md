@@ -1,4 +1,4 @@
-![github-profile-banner](https://github.com/user-attachments/assets/...)
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/37e945a3-c569-429f-a0d1-6c91cd99aecf" />
 
 # Wil Rodriguez — Technical Program Manager
 
