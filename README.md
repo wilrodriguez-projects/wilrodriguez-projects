@@ -1,10 +1,12 @@
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/37e945a3-c569-429f-a0d1-6c91cd99aecf" />
 
-# Wil Rodriguez — Technical Program Manager
+# Wil Rodriguez — IT Infrastructure & Technical Program Management
 
-I build systems that bring order to complex technical operations. My work sits at the intersection of program execution, infrastructure, and AI-assisted workflows, turning fragmented, high-stakes programs into controlled, documented, and repeatable delivery machines.
+Technical Program Manager with extensive experience delivering enterprise telecom, infrastructure, migration, and operational programs. My background combines technical program execution, carrier and vendor management, infrastructure operations, and complex enterprise delivery.
 
-Currently focused on: **cloud infrastructure migration · telecom operations · AI-powered program management**
+I am currently expanding my hands-on infrastructure engineering capabilities through **Windows Server, Active Directory, networking, Azure, automation, and data center technologies** — building and documenting practical labs and projects here on GitHub.
+
+**Current focus:** IT Infrastructure • Windows Server & Active Directory • Networking • Azure • Data Centers • Technical Program Management
 
 ---
 
