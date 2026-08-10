@@ -1,3 +1,5 @@
+![github-profile-banner](https://github.com/user-attachments/assets/...)
+
 # Wil Rodriguez — Technical Program Manager
 
 I build systems that bring order to complex technical operations. My work sits at the intersection of program execution, infrastructure, and AI-assisted workflows, turning fragmented, high-stakes programs into controlled, documented, and repeatable delivery machines.
