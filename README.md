@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/37e945a3-c569-429f-a0d1-6c91cd99aecf" />
 
-# Wil Rodriguez — IT Infrastructure & Technical Program Management
+# IT Infrastructure & Technical Program Management
 
 Technical Program Manager with extensive experience delivering enterprise telecom, infrastructure, migration, and operational programs. My background combines technical program execution, carrier and vendor management, infrastructure operations, and complex enterprise delivery.
 
