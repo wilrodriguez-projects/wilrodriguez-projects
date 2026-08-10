@@ -1,4 +1,5 @@
-<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/37e945a3-c569-429f-a0d1-6c91cd99aecf" />
+<img width="1881" height="836" alt="image" src="https://github.com/user-attachments/assets/6c414808-6f56-4c0e-9b0b-b6506a6a128d" />
+
 
 # IT Infrastructure & Technical Program Management
 
