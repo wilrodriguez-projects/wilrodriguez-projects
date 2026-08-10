@@ -4,7 +4,7 @@
 
 Technical Program Manager with extensive experience delivering enterprise telecom, infrastructure, migration, and operational programs. My background combines technical program execution, carrier and vendor management, infrastructure operations, and complex enterprise delivery.
 
-I am currently expanding my hands-on infrastructure engineering capabilities through **Windows Server, Active Directory, networking, Azure, automation, and data center technologies** — building and documenting practical labs and projects here on GitHub.
+I am currently expanding my hands-on infrastructure engineering capabilities through **Windows Server, Active Directory, networking, Azure, automation, and data center technologies** building and documenting practical labs and projects here on GitHub.
 
 **Current focus:** IT Infrastructure • Windows Server & Active Directory • Networking • Azure • Data Centers • Technical Program Management
 
