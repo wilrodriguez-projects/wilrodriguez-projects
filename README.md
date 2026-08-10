@@ -6,7 +6,7 @@ Technical Program Manager with extensive experience delivering enterprise teleco
 
 I am currently expanding my hands-on infrastructure engineering capabilities through **Windows Server, Active Directory, networking, Azure, automation, and data center technologies** building and documenting practical labs and projects here on GitHub.
 
-**Current focus:** IT Infrastructure • Windows Server & Active Directory • Networking • Azure • Data Centers • Technical Program Management
+**Current focus:** IT Infrastructure • Windows Server & Active Directory • Networking • Azure & Microsoft Cloud • Data Centers • Automation & AI
 
 ---
 
